@@ -1,0 +1,18 @@
+*{
+    border: solid;
+}
+
+.images{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.footer{
+    display: flex;
+    flex-direction: row-reverse;
+
+}
+.sdg{
+    display: flex;
+    flex-direction: row;
+}
